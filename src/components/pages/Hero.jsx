@@ -44,7 +44,7 @@ export default function Hero() {
             id: 4,
             title: "Online Tutoring",
             subtitle: "Learn anywhere with our online tutoring platform",
-            cta: "Start 7-Day Free Trial",
+            cta: "Start 1-Day Free Trial",
             href: "https://pentutor.com/",
             secondaryCta: "View Demo",
             // videoUrl: "/online-learning-platform-with-video-calls-and-inte.jpg",
